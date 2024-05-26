@@ -2,7 +2,9 @@
 
 **Barney.AI** is an engaging and interactive chatbot application inspired by the iconic character Barney Stinson from "How I Met Your Mother". Developed using Flutter and integrated with the Gemini AI API, this application not only responds with Barney's famous catchphrases but also exhibits his personality traits, making interactions legendary!
 
-![Barney Stinson](assets/images/barney.png)
+<p align="center">
+  <img src="assets/images/barney.png" alt="Barney Stinson" width="200" />
+</p>
 
 ## Features
 
@@ -15,6 +17,11 @@
 
 - **Framework:** Flutter
 - **Backend:** Gemini AI API
+
+<p align="center">
+  <img src="https://github.com/xajxatel/Barney.AI/assets/137952206/5b258ff4-8371-4621-81df-270674ea572c" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/xajxatel/Barney.AI/assets/137952206/c13f2355-3074-4840-bd56-c9756fe405d7" alt="Screenshot 2" width="400"/>
+</p>
 
 ## Installation
 
