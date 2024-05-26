@@ -28,7 +28,7 @@
 To get started with Barney.AI, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Barney.AI.git
+git clone https://github.com/xajxatel/Barney.AI.git
 cd Barney.AI
 flutter pub get
 flutter run
