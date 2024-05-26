@@ -19,8 +19,8 @@
 - **Backend:** Gemini AI API
 
 <p align="center">
-  <img src="https://github.com/xajxatel/Barney.AI/assets/137952206/5b258ff4-8371-4621-81df-270674ea572c" alt="Screenshot 1" width="300"/>
-  <img src="https://github.com/xajxatel/Barney.AI/assets/137952206/c13f2355-3074-4840-bd56-c9756fe405d7" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/xajxatel/Barney.AI/assets/137952206/5b258ff4-8371-4621-81df-270674ea572c" alt="Screenshot 1" width="250"/>
+  <img src="https://github.com/xajxatel/Barney.AI/assets/137952206/c13f2355-3074-4840-bd56-c9756fe405d7" alt="Screenshot 2" width="250"/>
 </p>
 
 ## Installation
